@@ -5,17 +5,20 @@
       "select_backup_ads": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "admob_interid": "ca-app-pub-3283226877261971/2254297823",
-      "admob_nativeid": "ca-app-pub-3283226877261971/8628134481",
-      "admob_openid": "ca-app-pub-3283226877261971/2062726130",
-      "interval": 5,
+      "admob_interid": "YOUR_PLACEMENT_ID",
+      "admob_nativeid": "YOUR_PLACEMENT_ID",
+      "admob_openid": "YOUR_PLACEMENT_ID",
+      "interval": 4,
       "startappid": "201669628",
-      "fan_inter": "612492376332507_612493222999089",
-      "fan_banner_native": "612492376332507_612492762999135",
-      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
-      "mopub_inter": "24534e1901884e398f1253216226017e",
-      "applovin_banner": "db4d5e8718b97d78",
-      "applovin_inter": "518cd97722c60b52",
+
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+
+      "mopub_banner": "YOUR_PLACEMENT_ID",
+      "mopub_inter": "YOUR_PLACEMENT_ID",
+      
+      "applovin_banner": "YOUR_PLACEMENT_ID",
+      "applovin_inter": "YOUR_PLACEMENT_ID",
       "packagename": "com.digie.attahalilintar"
     }
   ],
