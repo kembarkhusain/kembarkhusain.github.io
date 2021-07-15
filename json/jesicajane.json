@@ -5,10 +5,10 @@
       "select_backup_ads": "APPLOVIN",
       "status_app": "0",
       "link_redirect": "https://",
-      "admob_interid": "ca-app-pub-3283226877261971/3129594908",
-      "admob_nativeid": "ca-app-pub-3283226877261971/7404360764",
-      "admob_openid": "ca-app-pub-3283226877261971/3474329397",
-      "interval": 3,
+      "admob_interid": "YOUR_PLACEMENT_ID",
+      "admob_nativeid": "YOUR_PLACEMENT_ID",
+      "admob_openid": "YOUR_PLACEMENT_ID",
+      "interval": 4,
       "startappid": "201669628",
 
       "fan_inter": "YOUR_PLACEMENT_ID",
@@ -19,7 +19,7 @@
       
       "applovin_banner": "YOUR_PLACEMENT_ID",
       "applovin_inter": "YOUR_PLACEMENT_ID",
-      "packagename": "com.digie.riaricis"
+      "packagename": "com.digie.jesicajane"
     }
   ],
   "More":
